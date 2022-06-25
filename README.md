@@ -6,7 +6,7 @@ I'm also self learning different languages to become a Full Stack Developer.
 
 In my profile you can find some programs I've been working on. Feel free to check them out.
 
-My [Twitter](https://twitter.com/Canti2100)
+My [Twitter](https://twitter.com/Canti2100)  
 My [LinkedIn](https://www.linkedin.com/in/canti21)
 
 ### See you around!
