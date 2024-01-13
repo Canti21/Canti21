@@ -1,11 +1,9 @@
-# Hello There!
+# Hey there!
 
-My name is **Marcelo Vazquez Gutierrez**, aka **Canti**.
-I'm currently studying Engineering in Computer Science at BUAP.
-Although I have more experience in web development, I also like to experiment other things, like concurrent Java Programs, numerical methods calculators in Python, AI programms, data science stuff, and so on.
+I'm **Marcelo Vazquez (Canti)**. I thrive creating systems and software. Here you can find some projects i've worked on. I like to try new things all the time, so this page acts as a portfolio of my evolution as a developer. From basic web pages to full apps in various languages such as Concurrent Java programs, simple AI and numeric methods using Python, etc.
 
-In my profile you can find some programs I've been working on. Feel free to check them out.
+Feel free to check out my repos.
 
 My [LinkedIn](https://www.linkedin.com/in/canti21)
 
-### See you around!
+### Peace!
