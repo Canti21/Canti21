@@ -1,9 +1,20 @@
-# Hey there!
+# Hey there! 👋
 
-I'm **Marcelo Vazquez (Canti)**. I thrive creating systems and software. Here you can find some projects i've worked on. I like to try new things all the time, so this page acts as a portfolio of my evolution as a developer. From basic web pages to full apps in various languages such as Concurrent Java programs, simple AI and numeric methods using Python, etc.
+I'm **Marcelo (Canti)**. I'm a software developer based in Mexico.
 
-Feel free to check out my repos.
+## 🔧 Technologies & Tools
 
-My [LinkedIn](https://www.linkedin.com/in/canti21)
+* **Languages**: Java, JavaScript, Python.
+* **Frameworks**: Flask.
+* **Tools and Platforms**: Linux, VSCode, Git, Android Studio.
 
-### Peace!
+## 🌱 Currently Learning
+* **React**
+* **SQL**
+
+🎓 I'm also finishing a bachelors degree in Computer Science Engineering.
+
+## 📫 Get in Touch
+**LinkedIn**: [linkedin.com/in/canti21/](https://www.linkedin.com/in/canti21/)
+
+### Peace! ✌️
