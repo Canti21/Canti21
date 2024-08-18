@@ -1,3 +1,4 @@
+![Banner](https://imgur.com/SVAAGAf.jpg)
 # Hey there! 👋
 
 I'm **Marcelo (Canti)**. I'm a software developer based in Mexico.
