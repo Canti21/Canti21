@@ -4,7 +4,7 @@
 
 # Hey there! 👋
 
-I'm **Marcelo (Canti)**. I'm a software developer based in Mexico.
+I'm **Marcelo Vazquez**, aka **Canti**. I'm a software developer based in Mexico.
 
 ## 🔧 Technologies & Tools
 
@@ -13,7 +13,7 @@ I'm **Marcelo (Canti)**. I'm a software developer based in Mexico.
 * **Tools and Platforms**: Linux, VSCode, Git, Android Studio.
 
 ## 🌱 Currently Learning
-* **React**
+* **Spring Framework**
 * **SQL**
 
 🎓 I'm also finishing a bachelors degree in Computer Science Engineering.
