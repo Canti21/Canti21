@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Banner" src="https://imgur.com/SVAAGAf.jpg">
+  <img alt="Banner" src="https://i.imgur.com/SVAAGAf.jpeg">
 </picture>
 
 # Hey there! 👋
