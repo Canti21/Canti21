@@ -1,16 +1,16 @@
 <picture>
-  <img alt="Banner" src="https://i.imgur.com/6Jqh2j5.jpeg">
+  <img alt="Banner" src="https://i.imgur.com/fdKffvA.png">
 </picture>
 
 # Hey there! 👋
 
-I'm **Marcelo Vazquez**, aka **Canti21**. I'm a software developer based in Mexico.
+I'm **Marcelo Vazquez**, aka **Canti21**. I'm a software engineer based in Mexico.
 
 ## 🔧 Technologies & Tools
 
-* **Languages**: Java, JavaScript, Python.
-* **Frameworks**: Flask, ReactJS, NodeJS.
-* **Tools and Platforms**: Linux, VSCode, Git, Figma.
+* **Languages**: JavaScript, Python, Java.
+* **Frameworks**: ReactJS, ExpressJS, NodeJS. PlayWright
+* **Tools and Platforms**: Linux, AWS, Git, Figma.
 
 ## 📫 Get in Touch
 **LinkedIn**: [linkedin.com/in/canti21/](https://www.linkedin.com/in/canti21/)
